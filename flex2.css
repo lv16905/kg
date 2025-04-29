@@ -187,7 +187,6 @@ body{
 
 }
 .b13{ 
-    display: inline-block;
     display: flex;
     flex-direction: column;
     justify-content: start;
