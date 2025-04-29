@@ -96,9 +96,7 @@ body{
     padding-right: 90px;
    
 }
-.b6 p{
-    text-align:center;
-}
+
 .b6 img{
     background-color: white;
     border-radius: 100%;
@@ -116,11 +114,10 @@ body{
     flex-direction: column;
     padding-left: 90px;
     padding-right: 90px;
+    text-align:center;
 
 }
-.b7 p{
-    text-align:center;
-}
+
 .b7 img{
     background-color: white;
     border-radius: 100%;
