@@ -607,4 +607,7 @@ input.b19{
     .b21 a::after {
         top:31px
     }
+    input.b19{
+        max-width:372px
+    }
 }
