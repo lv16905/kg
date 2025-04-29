@@ -96,6 +96,9 @@ body{
     padding-right: 90px;
    
 }
+.b6 p{
+    text-align:center;
+}
 .b6 img{
     background-color: white;
     border-radius: 100%;
@@ -115,6 +118,9 @@ body{
     padding-right: 90px;
 
 }
+.b7 p{
+    text-align:center;
+}
 .b7 img{
     background-color: white;
     border-radius: 100%;
@@ -133,6 +139,9 @@ body{
     padding-right: 90px;
 
 }
+.b8 p{
+    text-align:center;
+}
 .b8 img{
     background-color: white;
     border-radius: 100%;
@@ -149,6 +158,9 @@ body{
     flex-direction: column;
     padding-left: 90px;
     padding-right: 90px;
+}
+.b9 p{
+    text-align:center;
 }
 .b9 img{
     background-color: white;
