@@ -595,4 +595,10 @@ input.b19{
     .b2 a{
         min-height: 43px;
     }
+    .b23 p{
+        font-size:13px
+    }
+    .p1{
+        font-size:10px
+    }
 }
